@@ -15,12 +15,14 @@ $ bash setup_env.sh
 
 Our code uses [Dassl](https://github.com/KaiyangZhou/Dassl.pytorch.git) codebase for dataset and training.
 
+```
 
 ## Datasets
 
 To download MedMNIST datasets, do
-
+```bash
 $ python download.py
+```
 
 ## Code Instructions
  - [GDrive](https://drive.google.com/drive/folders/154fbxLT7lk5T_fTxtyQL9LBoybVj0qCo?usp=sharing) folder contains the data splits of the datasets. Put these files inside each of the data folders.
