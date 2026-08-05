@@ -1,0 +1,38 @@
+{
+    "benign tumor": [
+        "well-defined, smooth, and round or oval shape with regular margins",
+        "homogeneous internal echotexture with uniform low-to-medium echogenicity",
+        "thin, echogenic capsule surrounding the lesion",
+        "wider-than-tall orientation, growing parallel to the skin surface",
+        "posterior acoustic enhancement indicating fluid content or soft tissue",
+        "absence of calcifications or architectural distortion",
+        "compressible and mobile under probe pressure",
+        "symmetrical appearance with no infiltration into adjacent tissues",
+        "no skin retraction or edema",
+        "internal echoes are evenly distributed without shadowing"
+    ],
+    "malignant tumor": [
+        "irregular, spiculated, or ill-defined margins with asymmetrical shape",
+        "heterogeneous echotexture with hypoechoic or mixed internal echoes",
+        "taller-than-wide orientation, indicating invasion into deeper tissues",
+        "posterior acoustic shadowing due to dense desmoplastic reaction",
+        "microcalcifications appearing as bright echogenic foci",
+        "increased vascularity on Doppler imaging with chaotic flow pattern",
+        "echogenic halo suggesting infiltration into surrounding fat",
+        "distortion of normal breast architecture",
+        "associated skin thickening or nipple retraction in advanced cases",
+        "presence of satellite nodules or ductal extension"
+    ],
+    "normal scan": [
+        "homogeneous echotexture of fibroglandular and fatty tissues",
+        "no discrete mass, lesion, or focal asymmetry",
+        "normal ductal structures appearing as linear anechoic channels",
+        "clear demarcation between skin, subcutaneous fat, and glandular layers",
+        "absence of architectural distortion or posterior shadowing",
+        "no abnormal vascularity or blood flow on Doppler imaging",
+        "smooth and uninterrupted Cooper’s ligaments",
+        "normal skin thickness without dimpling or retraction",
+        "no evidence of cysts, nodules, or calcifications",
+        "symmetrical tissue pattern across the scanning plane"
+    ]
+}

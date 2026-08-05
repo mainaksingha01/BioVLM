@@ -1,0 +1,50 @@
+{
+    "choroidal neovascularization": [
+        "presence of hyperreflective material between the retinal pigment epithelium (RPE) and Bruch’s membrane",
+        "irregular, elevated RPE detachment with subretinal fluid accumulation",
+        "disruption of outer retinal layers, including photoreceptor integrity line",
+        "increased reflectivity in the choroidal and subretinal space",
+        "multiple intraretinal cystic spaces due to fluid leakage",
+        "irregular thickening and elevation of the RPE",
+        "choroidal hyperpermeability leading to increased signal intensity",
+        "disorganized retinal architecture with loss of clear layer differentiation",
+        "subfoveal fibrosis in chronic cases with scarring and atrophy",
+        "presence of subretinal hyperreflective exudates or hemorrhages"
+    ],
+    "diabetic macular edema": [
+        "presence of multiple hyporeflective intraretinal cystic spaces",
+        "diffuse or focal retinal thickening due to fluid accumulation",
+        "hyperreflective foci scattered throughout the retina, representing hard exudates",
+        "disorganization of normal retinal layers due to edema",
+        "intraretinal fluid localized primarily in the inner nuclear and outer plexiform layers",
+        "subfoveal fluid accumulation in severe cases with neurosensory detachment",
+        "increased reflectivity and thickening of the central macula",
+        "dilated and tortuous capillaries in the macular region",
+        "loss of normal foveal depression due to macular swelling",
+        "cystoid macular changes leading to irregular retinal contours"
+    ],
+    "drusen": [
+        "well-defined, dome-shaped elevations of the RPE",
+        "sub-RPE deposits appearing as hyperreflective nodules",
+        "non-homogeneous, granular hyperreflectivity within drusen deposits",
+        "variable drusen size, ranging from small hard drusen to large soft drusen",
+        "retinal layer thinning over larger drusen in advanced cases",
+        "focal disruptions in the RPE at sites of drusen accumulation",
+        "progressive loss of photoreceptor integrity over time",
+        "mild to moderate choroidal thinning in age-related macular degeneration (AMD)",
+        "absence of significant intraretinal or subretinal fluid",
+        "drusen clusters leading to an irregular and undulating RPE contour"
+    ],
+    "normal OCT scan": [
+        "clear, well-defined retinal layers with normal reflectivity",
+        "uniform foveal depression with no signs of fluid accumulation",
+        "smooth and continuous RPE without irregular elevations",
+        "absence of intraretinal cysts or hyperreflective foci",
+        "consistent thickness of the neurosensory retina without localized edema",
+        "well-organized photoreceptor integrity line (ellipsoid zone) with no disruptions",
+        "homogeneous reflectivity of the outer retinal layers",
+        "normal choroidal thickness and vascular pattern",
+        "no signs of fibrosis, neovascularization, or hemorrhages",
+        "absence of drusen, pigment epithelial detachment, or RPE irregularities"
+    ]
+}

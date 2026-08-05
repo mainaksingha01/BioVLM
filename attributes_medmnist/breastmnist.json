@@ -1,0 +1,26 @@
+{
+    "malignant": [
+        "irregular, spiculated, or ill-defined margins with infiltrative appearance",
+        "heterogeneous internal echotexture with mixed echogenic and hypoechoic areas",
+        "taller-than-wide orientation, growing perpendicular to the skin",
+        "posterior acoustic shadowing due to dense fibrous or desmoplastic reaction",
+        "microcalcifications appearing as bright echogenic foci within the mass",
+        "central necrotic areas with irregular fluid-filled spaces",
+        "increased vascularity on Doppler imaging with chaotic blood flow patterns",
+        "distortion of surrounding tissue with architectural disruption",
+        "echogenic halo or hyperechoic rim indicating invasion into surrounding fat",
+        "asymmetric thickening of Cooper’s ligaments or skin retraction in advanced cases"
+    ],
+    "benign": [
+        "well-defined, smooth, and oval or round shape with regular margins",
+        "homogeneous internal echotexture with uniform low-to-medium echogenicity",
+        "thin, well-circumscribed echogenic capsule surrounding the lesion",
+        "wider-than-tall orientation, growing parallel to the skin surface",
+        "posterior acoustic enhancement indicating a cystic or fluid component",
+        "absence of microcalcifications or significant internal vascularity",
+        "compressibility and mobility when pressure is applied with the ultrasound probe",
+        "lack of significant shadowing or distortion of adjacent tissues",
+        "gentle lobulation in fibroadenomas, appearing as a smooth contour",
+        "normal surrounding fat and glandular tissue without invasion"
+    ]
+}

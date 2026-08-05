@@ -1,0 +1,50 @@
+{
+    "covid lungs": [
+        "bilateral, patchy ground-glass opacities predominantly in peripheral and lower lung zones",
+        "reticular and linear interstitial markings with irregular patterns",
+        "consolidations with a diffuse distribution and no lobar predominance",
+        "air bronchograms visible within consolidated regions",
+        "vascular thickening or prominence in affected areas",
+        "lack of significant pleural effusion or lymphadenopathy",
+        "non-uniform opacity distribution, often affecting multiple lobes",
+        "multifocal areas of lung opacity resembling ARDS",
+        "involvement of mid and lower lung zones more than upper zones",
+        "progressive increase in opacification over time in severe cases"
+    ],
+    "lung opacity lungs": [
+        "localized or diffuse increased lung density without specific distribution",
+        "ill-defined white opacities reducing the visibility of vascular markings",
+        "absence of typical lobar consolidation or ground-glass pattern",
+        "irregular borders of opacity with unclear etiology",
+        "can be focal, multifocal, or diffuse depending on underlying cause",
+        "opacity not clearly aligned with anatomical segments",
+        "may show volume loss or displacement of adjacent structures",
+        "no specific air bronchogram or vascular prominence",
+        "can occur with or without underlying infection or inflammation",
+        "may be seen post-surgery, in trauma, or as early infiltrate"
+    ],
+    "normal lungs": [
+        "clear lung fields with normal radiolucency and uniform texture",
+        "sharp and distinct diaphragmatic and cardiac borders",
+        "normal vascular markings radiating from the hilum",
+        "no focal consolidation, opacity, or abnormal densities",
+        "symmetrical lung volumes without collapse or overinflation",
+        "no signs of pleural effusion or thickening",
+        "clear costophrenic and cardiophrenic angles",
+        "normal bronchial and tracheal alignment",
+        "absence of nodules, masses, or infiltrates",
+        "well-aerated lungs with consistent contrast throughout the field"
+    ],
+    "viral pneumonia lungs": [
+        "bilateral patchy opacities with peribronchial and perihilar predominance",
+        "ground-glass opacities in a diffuse or nodular pattern",
+        "fine reticular or interstitial markings throughout the lung fields",
+        "absence of lobar consolidation typical of bacterial pneumonia",
+        "air bronchograms may be present within the ground-glass areas",
+        "mid and lower zone involvement more frequent than upper zones",
+        "no significant pleural effusion in uncomplicated cases",
+        "increased bronchovascular markings with mild peribronchial cuffing",
+        "ill-defined opacities that may coalesce in severe infections",
+        "lung volumes generally preserved unless disease is advanced"
+    ]
+}

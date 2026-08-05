@@ -1,0 +1,62 @@
+{
+    "normal retina": [
+        "clear and well-defined optic disc with a healthy cup-to-disc ratio",
+        "uniform reddish-orange retinal background with no abnormal opacities",
+        "well-organized vascular network with normal branching patterns",
+        "absence of microaneurysms, hemorrhages, or exudates",
+        "foveal reflex present with well-defined macular structure",
+        "no signs of venous beading, tortuosity, or abnormal vascular dilation",
+        "retinal layers appear intact without signs of ischemia or thickening",
+        "evenly distributed pigmentation with no areas of hyper- or hypopigmentation",
+        "absence of neovascularization or vascular leakage",
+        "well-preserved nerve fiber layer without localized defects"
+    ],
+    "mild diabetic retinopathy": [
+        "presence of scattered microaneurysms appearing as small red dots",
+        "few dot and blot hemorrhages within the inner retinal layers",
+        "absence of venous beading, intraretinal microvascular abnormalities (IRMA), or neovascularization",
+        "minimal or no hard exudates in the macular region",
+        "clear foveal architecture with no signs of clinically significant macular edema",
+        "no significant disruption of retinal layers in optical coherence tomography (OCT)",
+        "normal optic disc without signs of neovascularization",
+        "mild tortuosity of retinal blood vessels without dilation",
+        "absence of significant retinal thickening or fibrosis",
+        "early changes in vascular permeability but no extensive leakage"
+    ],
+    "moderate diabetic retinopathy": [
+        "increased number of microaneurysms and dot/blot hemorrhages",
+        "early venous beading indicating vascular damage",
+        "presence of hard exudates forming yellowish lipid deposits",
+        "cotton wool spots indicating localized retinal ischemia",
+        "mild intraretinal microvascular abnormalities (IRMA) seen near capillary dropout areas",
+        "vascular dilation with tortuous blood vessel appearance",
+        "thickening of the macular region indicating early diabetic macular edema",
+        "moderate disruption of the foveal architecture with mild loss of foveal reflex",
+        "increased permeability of retinal blood vessels seen as diffuse leakage",
+        "no evidence of neovascularization or fibrotic scarring"
+    ],
+    "severe diabetic retinopathy": [
+        "large numbers of hemorrhages and microaneurysms scattered throughout the retina",
+        "severe venous beading with irregular vessel caliber",
+        "widespread IRMA indicating advanced capillary damage",
+        "extensive cotton wool spots suggesting significant ischemic damage",
+        "prominent hard exudates forming rings around areas of fluid leakage",
+        "marked retinal thickening in the macular region",
+        "foveal distortion with loss of normal depression",
+        "darkened vascular areas due to capillary dropout",
+        "pre-neovascular changes indicating progression to proliferative stage",
+        "early vitreoretinal interface abnormalities in optical coherence tomography (OCT)"
+    ],
+    "proliferative diabetic retinopathy": [
+        "presence of neovascularization at the optic disc or elsewhere in the retina",
+        "fragile, abnormal new blood vessels growing into the vitreous",
+        "pre-retinal or vitreous hemorrhage causing dark patches in fundus images",
+        "tractional retinal detachment due to fibrotic proliferation",
+        "fibrovascular membranes forming over the retinal surface",
+        "severe retinal ischemia leading to capillary nonperfusion zones",
+        "widespread venous beading and extensive vascular leakage",
+        "marked disorganization of normal retinal architecture",
+        "vitreous opacities caused by repeated hemorrhages",
+        "increased risk of vision loss due to retinal detachment and neovascular complications"
+    ]
+}

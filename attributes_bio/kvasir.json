@@ -1,0 +1,98 @@
+{
+    "dyed lifted polyps": [
+        "clearly demarcated elevated lesion with a bluish hue from dye staining",
+        "polyp base appears separated from surrounding mucosa",
+        "smooth or slightly lobulated surface after submucosal injection",
+        "raised contours with well-defined margins",
+        "bluish discoloration enhancing polyp visibility",
+        "no spontaneous bleeding or ulceration in lifted state",
+        "clearly visible stalk or pedunculated base",
+        "enhanced contrast between polyp and flat mucosa due to dye",
+        "absence of vascular pattern distortion",
+        "used for planning safe resection during endoscopic mucosal dissection"
+    ],
+    "dyed resection margins": [
+        "irregular mucosal edge with clear blue dye staining at resection site",
+        "residual mucosal tissue appearing slightly elevated or eroded",
+        "well-demarcated flat area from surrounding tissue due to dye application",
+        "presence of cauterized or coagulated zones around margins",
+        "absence of active bleeding or large ulceration",
+        "visible clips or markings indicating post-polypectomy status",
+        "smooth resection base with color-enhanced contrast",
+        "dye outlining the resection boundary for histologic assessment",
+        "flattened tissue with subtle elevation at borders",
+        "intact adjacent mucosa without signs of deep injury"
+    ],
+    "esophagitis": [
+        "linear or circumferential mucosal erosions or breaks",
+        "erythematous mucosa with friability and loss of vascular pattern",
+        "white exudates or plaques over inflamed tissue",
+        "mucosal friability and granularity in distal esophagus",
+        "scalloped or irregular surface texture with loss of sheen",
+        "vascular congestion or capillary dilation visible under white light",
+        "contact bleeding or oozing with scope touch",
+        "strictures or narrowing in chronic cases",
+        "mucosal sloughing or ulcerations in severe grades",
+        "z-line may appear irregular or inflamed near gastroesophageal junction"
+    ],
+    "normal cecum": [
+        "smooth mucosal folds with a shiny, pink appearance",
+        "visible appendiceal orifice and ileocecal valve",
+        "intact vascular pattern with no erosions or inflammation",
+        "luminal content may include residual stool or mucus",
+        "pale, circular fold patterns with uniform texture",
+        "no polyps, ulcerations, or bleeding points",
+        "normal luminal distension and wall pliability",
+        "presence of prominent haustral markings",
+        "absence of mucosal friability or nodularity",
+        "cecal pole often identifiable by convergence of colonic folds"
+    ],
+    "normal pylorus": [
+        "circular opening with smooth, symmetric muscular ring",
+        "uniform pink mucosa with no erosions or nodularity",
+        "patent lumen with visible peristaltic activity",
+        "well-demarcated border between antrum and duodenum",
+        "no structural deformities or strictures",
+        "normal vascular pattern and mucosal sheen",
+        "absence of ulcers, erosions, or inflammatory changes",
+        "central lumen with radiating folds from muscular ring",
+        "no retained food or secretions obstructing the view",
+        "intact surface with no visible lesions or protrusions"
+    ],
+    "normal z line": [
+        "clear transition from pale esophageal squamous mucosa to red gastric columnar mucosa",
+        "well-demarcated squamocolumnar junction",
+        "no mucosal breaks or inflammatory changes at the junction",
+        "normal vascular pattern in both esophageal and gastric mucosa",
+        "absence of Barrett’s esophagus indicators (e.g., tongues of red mucosa)",
+        "sharp boundary with no irregular protrusions or scalloping",
+        "no ulcerations, nodularity, or erosions near the junction",
+        "clear concentric circular folds leading into the stomach",
+        "normal lumen distensibility without resistance",
+        "no evidence of metaplastic or dysplastic tissue"
+    ],
+    "polyps": [
+        "protruding lesion with round or lobulated surface",
+        "smooth or slightly granular mucosal covering",
+        "can be sessile (flat-based) or pedunculated (stalked)",
+        "clearly raised from the surrounding mucosa",
+        "no ulceration or bleeding unless traumatized",
+        "color similar or slightly paler than adjacent mucosa",
+        "can vary in size from a few millimeters to centimeters",
+        "usually solitary but may be multiple in syndromic cases",
+        "visible feeding vessels in some cases",
+        "surface architecture may show glandular or villous features"
+    ],
+    "ulcerative colitis": [
+        "diffuse mucosal erythema and loss of vascular pattern",
+        "continuous lesions without skip areas",
+        "granular or friable mucosa with contact bleeding",
+        "superficial ulcerations or erosions across large mucosal areas",
+        "pseudopolyps or regenerating islands in inflamed background",
+        "mucosal edema with flattened or distorted folds",
+        "white or yellow exudates covering ulcerated areas",
+        "circumferential inflammation often starting at the rectum",
+        "no deep transmural involvement (unlike Crohn’s)",
+        "chronic cases may show mucosal scarring and shortened colon"
+    ]
+}

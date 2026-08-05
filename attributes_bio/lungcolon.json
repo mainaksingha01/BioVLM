@@ -1,0 +1,62 @@
+{
+    "colon adenocarcinoma": [
+        "irregular, distorted glandular architecture with crowded formations",
+        "prominent nuclear pleomorphism and hyperchromasia",
+        "back-to-back gland arrangement with minimal stroma",
+        "loss of cell polarity and glandular orientation",
+        "increased mitotic activity including atypical mitoses",
+        "luminal necrosis or ‘dirty necrosis’ in gland centers",
+        "pseudostratified columnar cells with nuclear enlargement",
+        "infiltrative growth pattern into surrounding stroma",
+        "desmoplastic stromal response surrounding tumor glands",
+        "frequent presence of mucin-producing cells in glandular lumens"
+    ],
+    "colon benign tissue": [
+        "well-organized glandular architecture with uniform spacing",
+        "columnar epithelial cells with basally located nuclei",
+        "presence of goblet cells producing mucin",
+        "intact basement membrane with no stromal invasion",
+        "low nuclear-to-cytoplasmic ratio with regular chromatin",
+        "minimal or no mitotic figures in crypts",
+        "lamina propria filled with scattered lymphocytes and fibroblasts",
+        "absence of architectural distortion or nuclear atypia",
+        "clear distinction between epithelial lining and stroma",
+        "preserved mucosal surface with continuous lining"
+    ],
+    "lung adenocarcinoma": [
+        "gland-forming tumor cells with mucin production",
+        "irregular glandular patterns with desmoplastic stroma",
+        "high nuclear-to-cytoplasmic ratio with hyperchromatic nuclei",
+        "invasion into alveolar septa and loss of normal architecture",
+        "prominent nucleoli with vesicular chromatin",
+        "papillary, acinar, or lepidic growth patterns depending on subtype",
+        "presence of intracellular and extracellular mucin pools",
+        "irregular luminal formation with incomplete glands",
+        "increased mitotic activity and occasional necrosis",
+        "absence of squamous features such as keratinization"
+    ],
+    "lung benign tissue": [
+        "normal alveolar architecture with thin septal walls",
+        "uniform alveolar epithelial cells lining clear airspaces",
+        "presence of type I and II pneumocytes with no atypia",
+        "evenly spaced nuclei with fine chromatin and small nucleoli",
+        "lack of necrosis, hemorrhage, or fibrosis",
+        "no abnormal gland formation or invasion",
+        "capillaries embedded in alveolar septa without congestion",
+        "absence of mitotic figures or cellular crowding",
+        "no desmoplasia or inflammatory infiltrate",
+        "clearly distinguishable bronchioles and vasculature"
+    ],
+    "lung squamous cell carcinoma": [
+        "polygonal tumor cells with eosinophilic cytoplasm",
+        "keratin pearls and intercellular bridges indicating squamous differentiation",
+        "irregular nests or sheets of cells infiltrating stroma",
+        "prominent nucleoli with coarse chromatin and pleomorphic nuclei",
+        "central necrosis often present in tumor nests",
+        "minimal glandular formation (unlike adenocarcinoma)",
+        "dense desmoplastic response surrounding invasive clusters",
+        "individual cell keratinization in well-differentiated areas",
+        "high mitotic index with abnormal mitotic figures",
+        "abrupt transition from tumor cells to adjacent benign lung parenchyma"
+    ]
+}

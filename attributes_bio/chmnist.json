@@ -1,0 +1,98 @@
+{
+    "adipose tissue": [
+        "large, empty-looking polygonal cells with clear cytoplasm",
+        "nuclei pushed to the periphery due to lipid storage",
+        "honeycomb appearance with thin cytoplasmic borders",
+        "low cellular density with minimal nuclear material",
+        "pale staining on H&E due to lipid dissolution",
+        "uniform cell size in mature adipocytes",
+        "clearly separated by thin fibrous septa",
+        "absence of glandular or epithelial elements",
+        "no mitotic figures or nuclear pleomorphism",
+        "commonly found in the submucosal or mesenteric regions"
+    ],
+    "complex stroma": [
+        "dense fibrous matrix with a mixture of cell types",
+        "presence of fibroblasts, myofibroblasts, and immune cells",
+        "irregular arrangement of extracellular matrix components",
+        "variation in collagen fiber thickness and direction",
+        "associated with invasive tumor fronts",
+        "heterogeneous staining intensity on H&E slides",
+        "may show desmoplastic reaction in tumor stroma",
+        "interspersed blood vessels and inflammatory infiltrates",
+        "lack of organized glandular structures",
+        "reactive changes such as myxoid stroma or edema"
+    ],
+    "debris": [
+        "fragmented and disorganized cellular material",
+        "presence of nuclear and cytoplasmic remnants",
+        "intensely eosinophilic or basophilic amorphous areas",
+        "scattered apoptotic bodies and necrotic cells",
+        "lack of tissue architecture or organized structures",
+        "associated with ulceration, necrosis, or tumor necrosis",
+        "random distribution within the tissue section",
+        "no identifiable cell boundaries or organelles",
+        "granular texture under high magnification",
+        "may be accompanied by neutrophil infiltration"
+    ],
+    "empty background": [
+        "blank, unstained areas without any tissue elements",
+        "uniform white or light pink regions on H&E slides",
+        "absence of nuclei, cytoplasm, or extracellular matrix",
+        "may result from tissue sectioning or folding artifacts",
+        "no identifiable histological structures",
+        "can occur at slide edges or tissue gaps",
+        "no staining gradient or cellular detail",
+        "smooth and homogeneous appearance",
+        "clear demarcation from tissue-containing regions",
+        "no clinical relevance except as non-tissue artifact"
+    ],
+    "immune cells": [
+        "small, round cells with dark, densely stained nuclei",
+        "high nuclear-to-cytoplasmic ratio with scant cytoplasm",
+        "clustered or scattered distribution in stroma or glands",
+        "round to slightly irregular nuclear shape",
+        "uniform basophilic staining on H&E slides",
+        "may include lymphocytes, plasma cells, or macrophages",
+        "often located near tumor or inflamed areas",
+        "absence of gland formation or epithelial markers",
+        "may show mitotic figures in active inflammation",
+        "margination around vessels or glands in immune response"
+    ],
+    "normal mucosal glands": [
+        "well-organized tubular structures lined by columnar epithelial cells",
+        "uniform nuclear positioning at the basal end of cells",
+        "presence of goblet cells producing mucin",
+        "smooth glandular contours with consistent size and shape",
+        "clear separation between glands and lamina propria",
+        "no nuclear atypia or pleomorphism",
+        "absence of mitotic figures or necrosis",
+        "luminal space typically round or oval in shape",
+        "regular epithelial lining with intact basement membrane",
+        "mild basophilic cytoplasm and apical mucin caps in goblet cells"
+    ],
+    "simple stroma": [
+        "loosely arranged collagen fibers with low cellularity",
+        "presence of scattered fibroblasts and small blood vessels",
+        "eosinophilic background with minimal staining variability",
+        "no epithelial or glandular structures",
+        "homogeneous texture with consistent fiber orientation",
+        "lack of inflammatory cells or reactive changes",
+        "no desmoplastic or myxoid alterations",
+        "thin, elongated nuclei of fibroblasts sparsely distributed",
+        "regular spacing between matrix components",
+        "serves as structural support in non-tumorous regions"
+    ],
+    "tumour epithelium": [
+        "crowded, irregular glandular or solid epithelial arrangements",
+        "nuclear pleomorphism with hyperchromatic, enlarged nuclei",
+        "loss of normal glandular polarity and architecture",
+        "increased mitotic figures, including atypical forms",
+        "infiltrative growth into adjacent stroma",
+        "frequent necrosis and apoptotic bodies within tumor glands",
+        "back-to-back gland formation with little intervening stroma",
+        "prominent nucleoli and high nuclear-to-cytoplasmic ratio",
+        "loss of basement membrane integrity",
+        "marked cytologic atypia and architectural disarray"
+    ]
+}

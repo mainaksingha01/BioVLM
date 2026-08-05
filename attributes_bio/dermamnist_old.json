@@ -1,0 +1,86 @@
+{
+    "actinic keratosis": [
+        "irregular erythematous patches with scaly surface",
+        "white-to-yellowish keratin scales scattered over lesion",
+        "red pseudonetwork formed by background vascular structures",
+        "ill-defined borders blending into surrounding skin",
+        "absence of pigment network",
+        "small clustered white dots indicating hyperkeratosis",
+        "fine, linear vessels distributed irregularly",
+        "rough, sandpaper-like surface texture",
+        "no blue-gray globules or pigment streaks",
+        "commonly located on sun-exposed areas like scalp and cheeks"
+    ],
+    "basal cell carcinoma": [
+        "arborizing (tree-like) telangiectasia vessels crossing the lesion",
+        "blue-gray ovoid nests or globules",
+        "shiny, pearly surface with rolled borders",
+        "focal ulceration or central erosion in advanced lesions",
+        "spoke-wheel structures with radial brown projections",
+        "white shiny structures on polarized dermoscopy",
+        "lack of regular pigment network",
+        "multiple blue-gray dots or granules",
+        "irregular pigmentation with scattered dark areas",
+        "presence of leaf-like areas in pigmented variants"
+    ],
+    "benign keratosis": [
+        "well-demarcated border with a stuck-on appearance",
+        "moth-eaten or scalloped border with pseudonetwork",
+        "uniform brown color with waxy surface",
+        "cerebriform or brain-like ridges and fissures",
+        "presence of milia-like cysts and comedo-like openings",
+        "symmetrical structure with regular pigment distribution",
+        "absence of blue-white veil and atypical vessels",
+        "no signs of ulceration or regression structures",
+        "soft, homogeneous texture with minimal architectural disorder",
+        "frequently located on trunk or limbs in elderly individuals"
+    ],
+    "dermatofibroma": [
+        "central white scar-like area with peripheral pigment network",
+        "light brown, homogenous pigmentation",
+        "symmetric round or oval shape with well-defined border",
+        "delicate reticular pattern at lesion periphery",
+        "no blue-white veil or atypical structures",
+        "firm consistency and positive dimple sign on palpation",
+        "absence of ulceration or vascular abnormalities",
+        "no streaks or blotches",
+        "commonly located on lower limbs",
+        "central hypopigmented zone surrounded by darker rim"
+    ],
+    "melanocytic nevus": [
+        "symmetrical lesion with regular pigment network",
+        "even distribution of brown or black globules",
+        "homogeneous pattern—reticular, globular, or structureless",
+        "well-defined borders with smooth outline",
+        "presence of uniform network with consistent mesh size",
+        "absence of atypical streaks or blue-white veil",
+        "no ulceration or regression structures",
+        "consistent pigmentation with minimal variation",
+        "light to dark brown color, depending on depth",
+        "frequent location on trunk and extremities in young individuals"
+    ],
+    "melanoma": [
+        "asymmetric shape with irregular borders",
+        "multicolor appearance including black, brown, blue, red, and white",
+        "atypical pigment network with uneven mesh size",
+        "irregular blotches and asymmetric globules",
+        "blue-white veil suggesting regression",
+        "irregular streaks, pseudopods, or radial streaming",
+        "disrupted network or negative pigment network",
+        "ulceration or surface crusting in advanced stages",
+        "atypical vascular patterns with polymorphous vessels",
+        "variation in size, color, and shape within a single lesion"
+    ],
+    "vascular lesion": [
+        "homogeneous red, purple, or blue coloration",
+        "well-demarcated borders with smooth contour",
+        "lacunae or red lagoons with sharply defined edges",
+        "absence of pigment network or melanocytic features",
+        "presence of linear, comma-shaped, or dotted vessels",
+        "blanching with pressure in superficial lesions",
+        "no globules, streaks, or regression structures",
+        "frequent appearance on face or extremities",
+        "flat or slightly elevated lesion with compressibility",
+        "no signs of ulceration or surface scaling"
+    ]
+}

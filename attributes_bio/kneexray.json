@@ -1,0 +1,62 @@
+{
+    "doubtful osteoarthritis": [
+        "possible very small osteophytes at joint margins",
+        "joint space narrowing barely perceptible or within normal variation",
+        "articular surfaces mostly smooth with subtle irregularities",
+        "no visible subchondral sclerosis or cysts",
+        "minimal changes hard to distinguish from normal aging",
+        "mild asymmetry in joint alignment not associated with degeneration",
+        "unclear or borderline changes needing comparison with contralateral knee",
+        "no deformity of bone or abnormal angulation",
+        "soft tissue outlines remain normal",
+        "no definitive radiographic signs of osteoarthritis"
+    ],
+    "healthy knee": [
+        "normal joint space width between femur and tibia",
+        "smooth, well-defined articular surfaces with no irregularities",
+        "absence of osteophyte formation along joint margins",
+        "no evidence of subchondral sclerosis or cysts",
+        "well-preserved meniscal space and joint alignment",
+        "uniform cartilage thickness inferred by even joint space",
+        "no signs of bone remodeling or deformation",
+        "clear and sharp cortical bone outlines",
+        "symmetrical condylar surfaces on both femur and tibia",
+        "normal patellofemoral joint spacing and alignment"
+    ],
+    "minimal osteoarthritis": [
+        "small, definite osteophytes at tibial or femoral margins",
+        "mild joint space narrowing, especially in the medial compartment",
+        "beginning subchondral sclerosis in load-bearing areas",
+        "slight flattening of the femoral condyles",
+        "mild irregularity in cartilage surface reflected in joint contour",
+        "no significant deformity of bone architecture",
+        "early signs of patellofemoral involvement",
+        "no obvious cyst formation or bone erosion",
+        "asymmetry in joint space may become apparent",
+        "overall bone quality preserved with early degenerative signs"
+    ],
+    "moderate osteoarthritis": [
+        "moderate osteophyte formation at multiple joint margins",
+        "definite joint space narrowing in one or more compartments",
+        "increased subchondral sclerosis with thickened bone margins",
+        "early subchondral cyst formation",
+        "noticeable flattening or deformation of femoral condyles",
+        "possible varus or valgus misalignment of the joint",
+        "patellar tilt or joint incongruity may be visible",
+        "irregular joint surfaces indicating cartilage loss",
+        "reduced mobility inferred from decreased joint spacing",
+        "changes visible in both medial and lateral compartments"
+    ],
+    "severe osteoarthritis": [
+        "large and multiple osteophytes projecting from joint margins",
+        "severe joint space narrowing or complete loss of space",
+        "marked subchondral sclerosis with dense bone appearance",
+        "presence of large subchondral cysts or erosions",
+        "obvious deformity of joint architecture and alignment",
+        "bone-on-bone contact indicated by total cartilage loss",
+        "malalignment of joint often with varus or valgus deformity",
+        "significant flattening or collapse of femoral condyles",
+        "severe patellofemoral degeneration or joint subluxation",
+        "osteophytes encroaching on adjacent soft tissues"
+    ]
+}

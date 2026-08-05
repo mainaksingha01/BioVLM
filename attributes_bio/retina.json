@@ -1,0 +1,50 @@
+{
+    "cataract": [
+        "overall hazy or blurred appearance of the entire fundus image",
+        "reduced contrast and sharpness due to lens opacity",
+        "washed-out colors with dull optic disc and vessels",
+        "difficulty visualizing fine retinal details",
+        "glare or scattered light artifacts near the center",
+        "partial obscuration of the macula and optic disc",
+        "attenuated retinal vasculature visibility",
+        "lack of any discrete retinal lesions or hemorrhages",
+        "no signs of neovascularization or edema",
+        "image quality may vary depending on cataract severity"
+    ],
+    "diabetic retinopathy": [
+        "presence of microaneurysms appearing as small red dots",
+        "dot and blot retinal hemorrhages in posterior pole",
+        "hard exudates—yellowish deposits with sharp borders",
+        "cotton wool spots indicating localized ischemia",
+        "venous beading and dilation",
+        "intraretinal microvascular abnormalities (IRMA)",
+        "neovascularization on disc or elsewhere in advanced stages",
+        "macular edema causing thickening and loss of foveal reflex",
+        "retinal hemorrhages with irregular shapes and distribution",
+        "capillary dropout and poorly perfused areas"
+    ],
+    "glaucoma": [
+        "increased cup-to-disc ratio, often >0.6",
+        "neuroretinal rim thinning, especially inferiorly and superiorly",
+        "notching of the optic disc rim",
+        "asymmetry of optic disc cupping between eyes",
+        "disc hemorrhages (Drance hemorrhages)",
+        "peripapillary atrophy or pallor",
+        "loss of retinal nerve fiber layer striations",
+        "constricted visual field zones in clinical correlation",
+        "normal macula and vessels unless coexisting conditions present",
+        "deep and well-demarcated optic cup"
+    ],
+    "normal retina": [
+        "well-defined optic disc with healthy cup-to-disc ratio (~0.3)",
+        "clear macular reflex with no edema or discoloration",
+        "uniform background pigmentation without lesions",
+        "intact vascular tree with no dilation, hemorrhage, or beading",
+        "visible foveal avascular zone at the center",
+        "no exudates, microaneurysms, or neovascularization",
+        "sharp disc margins without notching or pallor",
+        "normal choroidal background texture",
+        "even illumination and clarity across the field",
+        "absence of any pathological signs or artifacts"
+    ]
+}

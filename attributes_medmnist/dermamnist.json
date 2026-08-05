@@ -1,0 +1,86 @@
+{
+    "actinic keratoses and intraepithelial carcinoma": [
+        "irregularly distributed erythema with a pinkish hue",
+        "white-to-yellowish keratin scales covering parts of the lesion",
+        "presence of a red pseudonetwork due to background vascular changes",
+        "absence of a pigment network but presence of follicular plugs",
+        "granular texture with a rough, uneven surface",
+        "superficial crusting or erosion in advanced cases",
+        "thin, linear telangiectatic vessels distributed irregularly",
+        "mild pigment asymmetry without deep infiltration",
+        "localized roughening of the skin surface",
+        "scaling accentuated after sun exposure"
+    ],
+    "basal cell carcinoma": [
+        "arborizing telangiectasia forming tree-like branching vessels",
+        "blue-gray ovoid nests or globules scattered within the lesion",
+        "shiny, translucent, or pearly surface with rolled borders",
+        "presence of ulceration or central erosion in nodular variants",
+        "multiple blue-gray dots or globules distributed irregularly",
+        "absence of a typical pigment network seen in benign lesions",
+        "white shiny structures visible under polarized light",
+        "spoke-wheel structures with radial brown projections in pigmented variants",
+        "focal ulceration with hemorrhagic crusting in advanced cases",
+        "peripheral rim of hyperpigmentation with central clearing"
+    ],
+    "benign keratosis": [
+        "well-defined, sharply demarcated border with uniform coloration",
+        "stuck-on appearance with a waxy or verrucous texture",
+        "multiple comedo-like openings and keratin-filled cysts",
+        "cerebriform or brain-like surface pattern under dermatoscopy",
+        "moth-eaten or scalloped border with irregular pigmentation",
+        "presence of fissures and ridges resembling a brain-like pattern",
+        "regularly distributed milia-like cysts within the lesion",
+        "absence of atypical vascular patterns or polymorphous vessels",
+        "uniform pigmentation without significant asymmetry",
+        "no evidence of regression structures or peripheral streaks"
+    ],
+    "dermatofibroma": [
+        "peripheral delicate pigment network surrounding a central white area",
+        "central hypopigmented or scar-like structureless region",
+        "delicate reticular pattern extending toward the periphery",
+        "symmetric lesion with regular borders and uniform pigmentation",
+        "light brown or tan homogeneous pigmentation with minimal variation",
+        "absence of blue-gray veil, streaks, or atypical vessels",
+        "presence of a firm consistency on palpation (dermatoscopic button sign)",
+        "faint radial lines or pseudopods that do not extend deeply",
+        "absence of ulceration, erosion, or surface scaling",
+        "lack of significant vascular structures or telangiectasia"
+    ],
+    "melanoma": [
+        "asymmetrical pigmentation with irregular color variation",
+        "atypical pigment network with irregular mesh size and distribution",
+        "blue-white veil with amorphous structure in the lesion",
+        "irregular streaks, blotches, or multiple color zones",
+        "presence of regression structures such as white scar-like areas",
+        "polymorphous vessels including irregular linear and dotted patterns",
+        "asymmetrically distributed peripheral brown or black globules",
+        "disruption of the pigment network with areas of negative network",
+        "irregular border with extensions or pseudopods",
+        "areas of ulceration, bleeding, or erosion in advanced cases"
+    ],
+    "melanocytic nevi": [
+        "well-formed, regular pigment network with uniform spacing",
+        "symmetrical structure with homogeneous color distribution",
+        "presence of regularly spaced brown or black globules",
+        "absence of blue-gray structures, atypical dots, or veil",
+        "reticular, globular, or homogeneous pattern with well-defined borders",
+        "uniform distribution of pigment with a symmetrical shape",
+        "no significant vascular patterns or irregular streaks",
+        "no ulceration, crusting, or hemorrhagic areas",
+        "absence of regression structures or irregular blotches",
+        "light brown to dark brown coloration with a smooth surface"
+    ],
+    "vascular lesions": [
+        "red, purple, or bluish homogeneous coloration",
+        "well-defined vascular structures such as lacunae or globules",
+        "red, blue, or purple lagoons with smooth margins",
+        "absence of pigment network or melanocytic structures",
+        "well-circumscribed lesion with uniform vascular distribution",
+        "presence of linear, curved, or comma-shaped vessels",
+        "homogeneous appearance without significant color variation",
+        "lack of regression structures, ulceration, or hemorrhage",
+        "no pigmented globules, streaks, or atypical networks",
+        "soft, compressible lesion that blanches with pressure"
+    ]
+}

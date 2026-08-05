@@ -1,0 +1,26 @@
+{
+    "normal": [
+        "clear and well-defined lung fields with uniform radiolucency",
+        "symmetrical lung expansion with no signs of consolidation",
+        "sharp and well-outlined diaphragm with normal positioning",
+        "costophrenic and cardiophrenic angles are clearly visible",
+        "no evidence of increased lung opacity or patchy infiltrates",
+        "normal bronchovascular markings without congestion or blurring",
+        "absence of pleural effusion, thickening, or fluid accumulation",
+        "intact cardiac silhouette with well-defined borders",
+        "clear airways with no evidence of bronchial wall thickening",
+        "absence of any focal lesions, masses, or alveolar opacities"
+    ],
+    "pneumonia": [
+        "presence of patchy or diffuse alveolar opacities in one or both lungs",
+        "airspace consolidation leading to increased lung density",
+        "asymmetrical lung involvement, often localized to one lobe",
+        "blurred or indistinct bronchovascular markings due to inflammation",
+        "evidence of air bronchograms within consolidated lung areas",
+        "irregular or hazy lung borders, indicating inflammatory exudate",
+        "possible pleural effusion appearing as fluid accumulation at lung bases",
+        "loss of normal diaphragmatic and cardiac silhouette due to opacity",
+        "hyperinflation or volume loss in affected lung segments",
+        "increased interstitial markings suggesting viral or atypical pneumonia"
+    ]
+}

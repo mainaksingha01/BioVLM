@@ -1,0 +1,98 @@
+{
+    "basophil": [
+        "large cell size with a lobulated nucleus, often obscured by granules",
+        "dark blue to purple granules densely packed throughout the cytoplasm",
+        "bilobed or segmented nucleus, often difficult to visualize due to granules",
+        "granules containing histamine and heparin, appearing large and irregular",
+        "cytoplasm heavily granulated, making it appear coarse or mottled",
+        "relatively rare in peripheral blood compared to other white blood cells",
+        "no distinct vacuoles in the cytoplasm",
+        "granules stain metachromatically with basic dyes",
+        "size slightly larger than lymphocytes but smaller than monocytes",
+        "plays a role in allergic reactions and inflammatory responses"
+    ],
+    "eosinophil": [
+        "bilobed nucleus with two distinct, connected lobes",
+        "abundant large, red to orange granules in the cytoplasm",
+        "granules contain major basic protein, making them highly eosinophilic",
+        "cytoplasm is granular but clear around the nucleus",
+        "larger than lymphocytes and similar in size to neutrophils",
+        "granules are uniform in size and distributed evenly throughout the cell",
+        "responds to parasitic infections and allergic reactions",
+        "does not show significant vacuolation",
+        "nucleus is usually not obscured by granules",
+        "granules do not stain basophilic or azurophilic"
+    ],
+    "erythroblast": [
+        "large, round nucleus occupying most of the cell",
+        "deeply basophilic cytoplasm in early stages, transitioning to lighter shades",
+        "chromatin clumping visible in more mature stages",
+        "smaller than myelocytes but larger than lymphocytes",
+        "nucleus appears round or slightly oval, centrally located",
+        "cytoplasm may contain some polyribosomes, giving it a blue appearance",
+        "absence of cytoplasmic granules",
+        "found in bone marrow and not typically present in peripheral blood",
+        "as it matures, the nucleus becomes pyknotic before being expelled",
+        "involved in red blood cell development and differentiation"
+    ],
+    "immature granulocytes(myelocytes, metamyelocytes and promyelocytes)": [
+        "large cell size with an oval to slightly indented nucleus",
+        "nucleus becomes more indented as the cell matures",
+        "cytoplasm contains azurophilic and specific granules",
+        "promyelocytes have the most abundant granules, appearing coarse",
+        "metamyelocytes have an indented nucleus but no full segmentation",
+        "myelocytes have a round nucleus and primary granules",
+        "larger than mature neutrophils with a higher nuclear-to-cytoplasmic ratio",
+        "cytoplasm transitions from deeply basophilic to more neutral with maturation",
+        "present in bone marrow and not typically found in healthy peripheral blood",
+        "precursors to mature neutrophils, eosinophils, and basophils"
+    ],
+    "lymphocyte": [
+        "small, round cell with a high nuclear-to-cytoplasmic ratio",
+        "dense, darkly stained nucleus with compact chromatin",
+        "scant, pale blue cytoplasm surrounding the nucleus",
+        "no cytoplasmic granules in most lymphocytes",
+        "nucleus occupies nearly the entire cell, leaving little visible cytoplasm",
+        "smaller than monocytes but similar in size to erythrocytes",
+        "may contain a small clear perinuclear zone",
+        "larger reactive lymphocytes can have a more irregular nuclear shape",
+        "plays a role in adaptive immunity, including B and T cell responses",
+        "absence of segmentation in the nucleus"
+    ],
+    "monocyte": [
+        "largest white blood cell found in peripheral blood",
+        "kidney-shaped or horseshoe-shaped nucleus",
+        "nucleus is less condensed and has a lacy chromatin pattern",
+        "abundant cytoplasm that appears grayish-blue",
+        "cytoplasm may contain fine azurophilic granules",
+        "often shows vacuolation, giving a foamy appearance",
+        "irregular cell border with occasional pseudopodia",
+        "functions as a precursor to macrophages and dendritic cells",
+        "no nuclear segmentation like neutrophils",
+        "larger than lymphocytes but smaller than some immature granulocytes"
+    ],
+    "neutrophil": [
+        "multi-lobed nucleus with 3 to 5 lobes connected by thin strands",
+        "abundant cytoplasm with pale pink or lightly granular appearance",
+        "cytoplasm contains fine, neutral-staining granules",
+        "granules contain antimicrobial proteins and enzymes",
+        "larger than lymphocytes but smaller than monocytes",
+        "nucleus is dense with coarse chromatin clumping",
+        "no significant vacuolation in resting neutrophils",
+        "first line of defense in bacterial infections and acute inflammation",
+        "clear nuclear segmentation differentiates it from immature granulocytes",
+        "short-lived in circulation but highly active in immune response"
+    ],
+    "platelet": [
+        "smallest cell fragments in blood, appearing as tiny, irregularly shaped bodies",
+        "anucleate (lacks a nucleus), differentiating it from white and red blood cells",
+        "light blue to purple-staining cytoplasm with fine granules",
+        "granules contain clotting factors, serotonin, and platelet-derived growth factors",
+        "heterogeneous in shape, with some appearing round and others irregular",
+        "found in clusters or scattered throughout the blood smear",
+        "plays a critical role in blood clotting and hemostasis",
+        "smaller than erythrocytes and leukocytes",
+        "no distinct nuclear material visible under a microscope",
+        "variable staining due to different granule contents"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "glioma tumor": [
+        "irregularly shaped mass with poorly defined borders",
+        "heterogeneous signal intensity on T1- and T2-weighted images",
+        "presence of peritumoral edema extending into adjacent brain tissue",
+        "infiltrative growth pattern that may cross the midline",
+        "ring-enhancing lesion with central necrosis in high-grade gliomas",
+        "distortion of adjacent brain structures due to mass effect",
+        "involvement of both white and gray matter with disrupted architecture",
+        "increased signal on FLAIR and T2-weighted images due to edema",
+        "hypointense core with hyperintense rim on contrast-enhanced scans",
+        "frequent diffusion restriction in aggressive subtypes"
+    ],
+    "meningioma tumor": [
+        "well-circumscribed extra-axial mass with broad dural attachment",
+        "homogeneous enhancement on contrast-enhanced T1-weighted images",
+        "presence of a dural tail sign extending from the mass",
+        "isointense or hypointense signal on T1, hyperintense on T2 sequences",
+        "no significant peritumoral edema in most cases",
+        "mass effect with compression of adjacent brain tissue but no infiltration",
+        "possible calcifications within the tumor on T2 or susceptibility images",
+        "displacement rather than invasion of surrounding brain parenchyma",
+        "adjacent hyperostosis or bony changes in the skull",
+        "smooth and rounded tumor margins with lobulated contours"
+    ],
+    "normal brain": [
+        "well-defined brain structures with symmetrical hemispheres",
+        "clear differentiation between gray and white matter on T1 images",
+        "uniform sulcal and gyral patterns with no distortion",
+        "intact midline structures with no evidence of shift or mass effect",
+        "normal ventricular size and shape without compression or dilation",
+        "no abnormal signal intensities on T1, T2, or FLAIR sequences",
+        "no enhancement after contrast administration",
+        "absence of space-occupying lesions, edema, or hemorrhage",
+        "well-preserved cortical and subcortical anatomy",
+        "no signs of diffusion restriction or microvascular changes"
+    ],
+    "pituitary tumor": [
+        "well-defined mass in the sella turcica region",
+        "iso- to hypointense on T1, hyperintense on T2-weighted images",
+        "strong, homogeneous enhancement after gadolinium contrast",
+        "upward displacement of the optic chiasm in macroadenomas",
+        "widening of the sella and erosion of the sellar floor",
+        "clearly distinguishable from the normal pituitary gland",
+        "no significant surrounding edema or infiltration",
+        "may show cystic or hemorrhagic components in larger tumors",
+        "visible compression of the infundibulum or cavernous sinus invasion",
+        "symmetric brain structures with localized mass effect in parasellar region"
+    ]
+}

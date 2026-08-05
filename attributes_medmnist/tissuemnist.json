@@ -1,0 +1,98 @@
+{
+    "collecting duct and connecting tubule": [
+        "cuboidal epithelial cells with centrally located nuclei",
+        "distinct apical and basolateral membrane polarization",
+        "relatively clear cytoplasm with sparse organelles",
+        "well-defined intercellular boundaries due to tight junctions",
+        "presence of specialized intercalated cells with darker cytoplasm",
+        "lumen appears wider compared to proximal and distal tubules",
+        "lined by a single layer of epithelial cells",
+        "prominent mitochondria in some cells, indicating active ion transport",
+        "smooth and uniform apical surface with minimal microvilli",
+        "relatively straight or slightly curved tubular structure"
+    ],
+    "distal convoluted tubule": [
+        "cuboidal epithelial cells with a smaller lumen compared to proximal tubules",
+        "less prominent brush border due to sparse microvilli",
+        "clear cytoplasm with fewer visible intracellular granules",
+        "tightly packed cells with centrally located nuclei",
+        "distinct basal infoldings rich in mitochondria for ion transport",
+        "relatively uniform cell shape and size",
+        "lumen appears wider than proximal tubules but smaller than collecting ducts",
+        "less eosinophilic cytoplasm compared to proximal tubule cells",
+        "involvement in sodium and calcium reabsorption",
+        "absence of peritubular capillaries closely surrounding the tubule"
+    ],
+    "glomerular endothelial cells": [
+        "flat, elongated cells lining the glomerular capillaries",
+        "fenestrated cytoplasm with numerous small pores for filtration",
+        "lack of basement membrane separation from blood circulation",
+        "closely associated with podocytes and mesangial cells",
+        "presence of Weibel-Palade bodies containing von Willebrand factor",
+        "thin cytoplasm with prominent nuclear-to-cytoplasmic ratio",
+        "irregular nuclear contours due to adaptation to capillary curves",
+        "highly active in preventing protein leakage via charge barrier",
+        "no visible microvilli or extensive intracellular organelles",
+        "associated with immune response regulation and leukocyte adhesion"
+    ],
+    "interstitial endothelial cells": [
+        "elongated, spindle-shaped morphology with flattened nuclei",
+        "loosely arranged in the kidney interstitium between tubules",
+        "surrounded by extracellular matrix and interstitial fibroblasts",
+        "non-fenestrated cytoplasm with a continuous basement membrane",
+        "involved in vascular regulation and immune signaling",
+        "absence of direct contact with glomerular capillaries",
+        "dense chromatin pattern with elongated nuclear shape",
+        "thin cytoplasm with limited organelles visible under light microscopy",
+        "associated with peritubular capillaries supplying the nephron",
+        "lack of microvilli or brush border structures"
+    ],
+    "leukocytes": [
+        "round cells with a high nuclear-to-cytoplasmic ratio",
+        "prominent, dark-stained nuclei with condensed chromatin",
+        "cytoplasm may contain granules in granulocytic variants",
+        "margination along blood vessel walls within kidney sections",
+        "some leukocytes appear in clusters indicating inflammatory response",
+        "irregular nuclear shape in monocytes and polymorphonuclear cells",
+        "variable cytoplasmic staining depending on leukocyte subtype",
+        "may be seen infiltrating glomeruli or tubulointerstitial spaces",
+        "typically larger than erythrocytes but smaller than epithelial cells",
+        "involved in immune surveillance and response to injury"
+    ],
+    "podocytes": [
+        "large, irregularly shaped cells with prominent cytoplasmic extensions",
+        "numerous interdigitating foot processes forming filtration slits",
+        "presence of slit diaphragm proteins like nephrin and podocin",
+        "peripherally located nuclei with clear cytoplasm",
+        "closely apposed to the glomerular basement membrane",
+        "absence of significant intracellular granules or inclusions",
+        "actin-rich cytoskeleton providing structural integrity",
+        "lack of direct contact with glomerular capillary lumen",
+        "visible basement membrane anchoring foot processes",
+        "critical role in preventing protein leakage in urine"
+    ],
+    "proximal tubule segments": [
+        "large cuboidal epithelial cells with prominent brush border",
+        "extensive microvilli increasing surface area for absorption",
+        "deeply eosinophilic cytoplasm due to abundant mitochondria",
+        "irregular, centrally located nuclei with prominent nucleoli",
+        "wide lumen that appears irregular due to cell height variations",
+        "presence of vesicles and lysosomes involved in protein reabsorption",
+        "dense cytoplasm with granular appearance under light microscopy",
+        "strong basophilic staining at the basal region due to active transport",
+        "lined by a single layer of epithelial cells with tight junctions",
+        "often surrounded by peritubular capillaries for rapid solute exchange"
+    ],
+    "thick ascending limb": [
+        "cuboidal cells with relatively clear cytoplasm",
+        "lack of brush border microvilli seen in proximal tubule",
+        "high mitochondrial density supporting active ion transport",
+        "wide lumen with smooth and well-defined epithelial lining",
+        "basolateral membrane infoldings increasing surface area",
+        "involvement in sodium, potassium, and chloride reabsorption",
+        "cells appear slightly smaller than proximal tubule epithelial cells",
+        "lined by a single layer of cuboidal epithelial cells",
+        "pale-staining cytoplasm with fewer intracellular vesicles",
+        "structural adaptation to countercurrent exchange mechanism"
+    ]
+}

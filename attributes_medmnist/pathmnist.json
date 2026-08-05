@@ -1,0 +1,110 @@
+{
+    "adipose": [
+        "large, polygonal cells with clear cytoplasm due to lipid content",
+        "nuclei pushed to the periphery of the cells due to lipid accumulation",
+        "honeycomb-like appearance with well-defined cell borders",
+        "low cellular density with minimal extracellular matrix",
+        "absence of mitotic figures or nuclear pleomorphism",
+        "capillaries scattered between adipocytes with minimal stromal support",
+        "no glandular structures or epithelial components",
+        "absence of inflammatory infiltration or immune cell clusters",
+        "fat vacuoles appearing as empty spaces in H&E staining",
+        "thin, fibrous septa separating clusters of adipocytes"
+    ],
+    "background": [
+        "uniform blank areas with no cellular structures",
+        "absence of nuclei, cytoplasm, or extracellular components",
+        "consistent staining artifact without cellular morphology",
+        "homogeneous color distribution with no histological structures",
+        "clear separation from tissue-containing regions",
+        "absence of glandular or stromal elements",
+        "artifact-free appearance with no staining irregularities",
+        "does not interfere with cellular analysis or classification",
+        "typically seen at slide edges or between tissue sections",
+        "uniform contrast with no cytological or histological features"
+    ],
+    "debris": [
+        "fragmented cellular and extracellular material with irregular shape",
+        "clusters of necrotic or degenerated cells without clear organization",
+        "scattered apoptotic bodies indicating cell death",
+        "dense, eosinophilic material randomly distributed",
+        "no intact glandular or stromal structures",
+        "highly disorganized background with variable staining intensity",
+        "frequent presence of inflammatory infiltrates",
+        "association with necrotic or dying tumor cells",
+        "remnants of cellular membranes and nuclear fragments",
+        "mixed staining patterns due to cellular degradation"
+    ],
+    "lymphocytes": [
+        "small, round nuclei with densely packed chromatin",
+        "high nuclear-to-cytoplasmic ratio with scant cytoplasm",
+        "darkly stained nuclei with a uniform size and shape",
+        "clustered or dispersed distribution within the stroma",
+        "aggregation around glandular or tumor structures",
+        "absence of significant pleomorphism or nuclear atypia",
+        "intensely basophilic staining due to high DNA content",
+        "presence of mitotic figures indicating active immune response",
+        "commonly found near tumor epithelium in inflammatory reactions",
+        "lack of glandular structures or fibrous components"
+    ],
+    "mucus": [
+        "extracellular, pale-staining material with irregular distribution",
+        "amorphous and translucent appearance in H&E staining",
+        "variable consistency ranging from granular to homogenous",
+        "accumulation within glandular lumens in mucinous tumors",
+        "pale blue or grayish coloration on histological slides",
+        "frequent association with goblet cells or secretory epithelium",
+        "separation from cellular components with distinct boundaries",
+        "poorly stained nuclei within mucus-filled areas",
+        "presence of mucus lakes in aggressive mucinous adenocarcinomas",
+        "involvement in tumor microenvironment as a protective barrier"
+    ],
+    "smooth muscle": [
+        "spindle-shaped cells with elongated, cigar-shaped nuclei",
+        "eosinophilic cytoplasm with a smooth, uniform texture",
+        "organized fascicular arrangement of muscle fibers",
+        "absence of significant pleomorphism or nuclear atypia",
+        "presence of interspersed connective tissue fibers",
+        "well-defined cytoplasmic borders between adjacent cells",
+        "smooth transition between layers of muscularis mucosae",
+        "regularly spaced nuclei aligned parallel to muscle fibers",
+        "minimal inflammatory infiltration within the muscle layer",
+        "absence of glandular or epithelial elements"
+    ],
+    "normal colon mucosa": [
+        "well-organized tubular glandular structures with clear lumens",
+        "regular arrangement of columnar epithelial cells with basal nuclei",
+        "presence of numerous goblet cells producing mucin",
+        "clear demarcation between epithelium and underlying stroma",
+        "absence of nuclear pleomorphism or hyperchromasia",
+        "smooth glandular contours without significant distortion",
+        "presence of a well-formed lamina propria with scattered immune cells",
+        "uniform crypt architecture without loss of polarity",
+        "no evidence of epithelial crowding or dysplasia",
+        "clear basement membrane separating epithelium from stroma"
+    ],
+    "cancer-associated stroma": [
+        "densely fibrotic extracellular matrix with irregular arrangement",
+        "presence of activated fibroblasts with elongated nuclei",
+        "increased stromal cellularity with loss of normal architecture",
+        "prominent inflammatory infiltrates surrounding tumor islands",
+        "disorganized collagen fibers with thickened, hyalinized areas",
+        "vascular proliferation with irregularly shaped blood vessels",
+        "evidence of stromal desmoplasia in response to tumor invasion",
+        "presence of myofibroblasts with increased cytoplasmic volume",
+        "loss of smooth, organized stromal architecture",
+        "altered stromal-epithelial interaction contributing to tumor progression"
+    ],
+    "colorectal adenocarcinoma epithelium": [
+        "irregularly shaped, crowded glandular structures with loss of normal polarity",
+        "high nuclear-to-cytoplasmic ratio with enlarged, hyperchromatic nuclei",
+        "marked nuclear pleomorphism with variation in size and shape",
+        "loss of glandular organization with cribriform or fused gland patterns",
+        "frequent mitotic figures, some appearing atypical",
+        "presence of necrotic debris within glandular lumens",
+        "disordered growth pattern extending into underlying stroma",
+        "loss of clear basement membrane between epithelium and stroma",
+        "dense cellular arrangement with overlapping nuclei",
+        "infiltrative growth with irregular invasion into surrounding tissue"
+    ]
+}

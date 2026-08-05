@@ -1,0 +1,50 @@
+{
+    "cyst kidney": [
+        "well-defined, round or oval hypodense lesion with smooth borders",
+        "homogeneous low attenuation close to water density (0–20 HU)",
+        "no internal enhancement after contrast administration",
+        "absence of internal septations, nodules, or calcifications in simple cysts",
+        "clear demarcation from the surrounding renal parenchyma",
+        "thin, imperceptible wall with no irregularities",
+        "usually solitary but may be multiple in cases of polycystic kidney disease",
+        "no evidence of solid components or vascularity",
+        "non-distortion of renal contour unless large in size",
+        "unchanged in different contrast phases, supporting benign nature"
+    ],
+    "kidney stone": [
+        "hyperdense focus with high attenuation (>200 HU) within the collecting system",
+        "small, sharply marginated structure often in the calyces or renal pelvis",
+        "no associated soft-tissue mass or enhancement",
+        "may cause obstruction with hydronephrosis in larger or impacted stones",
+        "posterior acoustic shadowing on correlative ultrasound",
+        "non-enhancing and stable in pre- and post-contrast scans",
+        "no significant perinephric fat stranding unless complicated",
+        "common locations include ureteropelvic junction and calyceal fornix",
+        "may be associated with calcified debris in staghorn calculi",
+        "not associated with parenchymal distortion unless chronic"
+    ],
+    "kidney tumor": [
+        "solid or complex mass with irregular or lobulated borders",
+        "heterogeneous enhancement after contrast due to variable vascularity",
+        "mixed attenuation with necrotic, hemorrhagic, or calcified components",
+        "mass effect causing distortion or bulging of the renal contour",
+        "involvement of renal parenchyma with potential invasion into vessels",
+        "contrast enhancement pattern helps differentiate subtypes (e.g., RCC)",
+        "may show central necrosis or pseudocapsule",
+        "adjacent fat stranding or lymphadenopathy in advanced cases",
+        "often associated with displacement or distortion of the collecting system",
+        "clear cell tumors enhance more avidly compared to other subtypes"
+    ],
+    "normal kidney": [
+        "smooth, bean-shaped organ with homogeneous parenchymal texture",
+        "clear corticomedullary differentiation on contrast-enhanced images",
+        "normal renal contour without bulges or indentations",
+        "intact and symmetric renal sinus with visible fat content",
+        "normal collecting system with no signs of obstruction or filling defects",
+        "uniform enhancement of renal cortex in the arterial phase",
+        "no focal masses, cysts, or calcifications",
+        "renal pelvis and calyces appearing as low-density structures centrally",
+        "perirenal fat plane preserved and free of stranding",
+        "no vascular abnormalities or abnormal perfusion zones"
+    ]
+}

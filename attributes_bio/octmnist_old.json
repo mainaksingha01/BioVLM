@@ -1,0 +1,50 @@
+{
+    "choroidal neovascularization": [
+        "irregular elevation of the retinal pigment epithelium (RPE)",
+        "presence of subretinal hyperreflective material between RPE and Bruch’s membrane",
+        "disruption of outer retinal layers including ellipsoid and external limiting membrane",
+        "subretinal or intraretinal fluid accumulation with cystoid appearance",
+        "heterogeneous reflectivity indicating neovascular tissue",
+        "loss of normal foveal contour due to neovascular mass effect",
+        "RPE detachment with dome-shaped elevation",
+        "presence of subretinal exudation or hemorrhage in advanced stages",
+        "blurring of choriocapillaris interface",
+        "increased choroidal thickness around neovascular complex"
+    ],
+    "diabetic macular edema": [
+        "intraretinal cystoid spaces predominantly in the inner nuclear and outer plexiform layers",
+        "diffuse or focal thickening of the central retina",
+        "hyperreflective foci scattered throughout retinal layers representing hard exudates",
+        "loss of foveal depression due to macular swelling",
+        "presence of subretinal fluid in severe cases",
+        "disorganization of inner retinal layers (DRIL)",
+        "increased retinal reflectivity due to capillary leakage",
+        "microaneurysms may appear as localized hyperreflective dots",
+        "increased reflectivity of inner retina near fluid-filled spaces",
+        "absence of sharp junctions between retinal layers"
+    ],
+    "drusen": [
+        "dome-shaped elevations of the RPE with variable size and reflectivity",
+        "irregular and granular hyperreflective deposits under the RPE",
+        "clear separation between RPE and Bruch’s membrane",
+        "thickening of RPE–Bruch’s membrane complex",
+        "preserved outer retinal layers over small drusen",
+        "disruption of outer retinal layers in areas with large drusen",
+        "absence of subretinal or intraretinal fluid",
+        "mild distortion of foveal contour in advanced cases",
+        "no neovascular complex or hemorrhage under RPE",
+        "located centrally or parafoveally, often bilaterally"
+    ],
+    "normal OCT scan": [
+        "clear, layered architecture of retinal structures from vitreous to choroid",
+        "well-defined foveal depression without distortion or thickening",
+        "normal reflectivity of inner and outer retinal bands",
+        "smooth and continuous contour of the retinal pigment epithelium",
+        "absence of subretinal or intraretinal fluid",
+        "no hyperreflective foci or deposits",
+        "intact ellipsoid zone and external limiting membrane",
+        "normal thickness and symmetry of both macula and peripheral retina",
+        "no signs of vitreomacular traction or epiretinal membranes",
+        "homogeneous choroidal and scleral reflectivity beneath retina"
+    ]
+}
